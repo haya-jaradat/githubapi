@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+input{
+  margin-top: 120px;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+img{
+  height: 250px;
+  width: 400px;
+}
